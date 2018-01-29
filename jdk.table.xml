@@ -1,0 +1,36 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="1.8" />
+      <homePath value="/opt/java" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///opt/java/lib/ant-javafx.jar!/" type="simple" />
+            <root url="jar:///opt/java/lib/dt.jar!/" type="simple" />
+            <root url="jar:///opt/java/lib/javafx-mx.jar!/" type="simple" />
+            <root url="jar:///opt/java/lib/jconsole.jar!/" type="simple" />
+            <root url="jar:///opt/java/lib/packager.jar!/" type="simple" />
+            <root url="jar:///opt/java/lib/sa-jdi.jar!/" type="simple" />
+            <root url="jar:///opt/java/lib/tools.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///opt/java/src.zip!/" type="simple" />
+            <root url="jar:///opt/java/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
