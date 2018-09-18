@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="PLACEHOLDER" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
