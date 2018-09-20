@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="PLACEHOLDER" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
